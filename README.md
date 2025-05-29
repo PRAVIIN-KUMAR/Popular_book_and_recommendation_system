@@ -6,9 +6,7 @@ An interactive book recommendation system built using **Streamlit**. It provides
 
 ## 🚀 Live App
 
-👉 [Open the App](#)  
-*(Replace with your deployed Streamlit link)*
-
+👉 [Open the App](https://popularbookandrecommendationsystem-demuqy4yymodwj8jhmksgx.streamlit.app/)  
 ---
 
 ## 🧩 Features
